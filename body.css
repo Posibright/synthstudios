@@ -56,8 +56,8 @@
     border: none;
     margin-top: 50px;
     margin-right: 10px;
-    transition: background-color 0.3s;
-    transition: color 0.3s;
+    transition: background-color 1s;
+    transition: color 1s;
 }
 
 .button-1:hover{
@@ -75,8 +75,8 @@
     border: none;
     margin-top: 50px;
     margin-left: 10px;
-    transition: background-color 0.3s;
-    transition: color 0.3s;
+    transition: background-color 1s;
+    transition: color 1s;
 }
 
 .button-2:hover{
